@@ -5,7 +5,8 @@
  */
 .highlight {
   background-color: #2B2B2B;
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  color: #A9B7C6; }
   .highlight pre {
     background-color: #2B2B2B; }
     .highlight pre code {
